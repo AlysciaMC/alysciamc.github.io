@@ -1,12 +1,12 @@
 name = "Alyscia"
 author = "Dia"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2efea926780b0c2f00729b06a31186bea354239b6857ef1f4dae7cc920c27d72"
+hash = "b227db083b8bf954c8fba01857ec0869b6be76097592b0e7f3fa8afca3800a8a"
 
 [versions]
 fabric = "0.15.0"

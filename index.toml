@@ -161,6 +161,11 @@ hash = "f74584d3fdc354c56eb4dc9dd46466188f0f420bcace1e57b4a5c92330d6e9b4"
 metafile = true
 
 [[files]]
+file = "mods/stacc-api.pw.toml"
+hash = "f43bfe5b19aa551bc66c51f84c72e5cc1edd60182e428ea5fa17bdb6ec82ebdb"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
